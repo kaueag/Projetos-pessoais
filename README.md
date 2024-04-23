@@ -18,4 +18,15 @@
     
     📈   Em seguida busquei profissionalizar meus conhecimentos em programação e dados focando em Power BI, SQL e
          Python.
-  
+
+<div align="center">
+      <h3><b>Contatos</b></h3>
+  </div>
+<div align="center">
+    <a href="https://www.linkedin.com/in/kaue-gon%C3%A7alves-a4544a50/" target="_blank">
+      <img align="center" alt="Kaue | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    </a>
+      <a href="https://www.instagram.com/kaueag/" target="_blank">
+          <img align="center" alt="Kaue | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+              </a>
+  </div>
